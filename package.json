@@ -1,5 +1,5 @@
 {
-  "name": "pubtest",
+  "name": "@mde/pubtest",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mde/pubtest.git"
   },
-  "author": "mde",
+  "author": "mde@fleegix.org",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/mde/pubtest/issues"
